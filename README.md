@@ -1,6 +1,6 @@
 
 
-### Power BI E-commerce Dashboard
+## Power BI E-commerce Sales Dashboard
 # Overview
 This Power BI E-commerce Dashboard provides real-time insights into an e-commerce business's sales performance, customer behavior, and product trends. Designed to help e-commerce managers and analysts make informed decisions, the dashboard visualizes data from various sources, including sales transactions, customer databases, and inventory records.
 
